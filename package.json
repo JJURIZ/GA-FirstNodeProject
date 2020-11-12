@@ -1,0 +1,19 @@
+{
+  "name": "ga-firstnodeproject",
+  "version": "1.0.0",
+  "description": "First GA Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJURIZ/GA-FirstNodeProject.git"
+  },
+  "author": "Jeremy Uriz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJURIZ/GA-FirstNodeProject/issues"
+  },
+  "homepage": "https://github.com/JJURIZ/GA-FirstNodeProject#readme"
+}
